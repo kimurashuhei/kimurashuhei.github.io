@@ -12,5 +12,5 @@ npm init -y
 
 ```bash
 npm i -S next react react-dom
-npm i -S nextra
+npm i -S nextra nextra-theme-blog rss
 ```
